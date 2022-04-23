@@ -1,0 +1,20 @@
+Variables: Son cajitas donde dentro guardaremos cosas.
+		En este caso guardamos datos,
+		para que estos queden almacenados dentro de 
+		la variable y luego, podamos acceder a ellos de distintas formas.
+
+Strings: Son un tipo de dato que las variables pueden almacenar. En este caso, "String" es una variable
+de tipo cadena o texto. Tambien tenemos de tipo numero, entre otros.
+
+Funciones (argumentos, return): Son bloques de código donde podemos ejecutar
+diferentes tipos de tareas o pasos. Estos pueden recibir argumentos, que son
+variables que pueden ser utilizadas dentro de la funcion. Estas las pasamos
+cuando llamamos la funcion. Tambien pueden retornar algo, ya que las funciones
+sin return, no devuelven ningun valor, pero las tipo "return", si.
+
+Declaraciones if: Es una sentencia utilizada para comparar valores. 
+Esta comparacion devuelve verdadero o falso. Dependiendo el valor que devuelva,
+procede a ejecutarse un bloque de codigo o no. 
+
+Valores booleanos: Son otro tipo de dato para las variables. Estos devuelven solo
+dos valores. Verdadero o falso. O en ingles true or false.
